@@ -306,7 +306,7 @@ class UFO(GameSprite):
 # Window settings
 
 caption = "SPACE GAME"
-size = (1920, 1080)
+size = (1512, 982)
 
 # Photo settings
 
